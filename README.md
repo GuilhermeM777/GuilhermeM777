@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GuilhermeM777
 - 👀 I’m interested in: Desenvolver histórias e universos para jogos e também em programação para mobile.
 - 🌱 I’m currently learning: JavaScript, Dart, C#. 
-- 📫 How to reach me: Email: deoliveiraguilhermematos@gmail.com e @matinhos_odt.
+- 📫 How to reach me: Email: deoliveiraguilhermematos@gmail.com e @dantematos69.
 - 😄 Pronouns: Ele/Dele
 - ⚡ Fun fact: Gosto de peixe boi.
 
